@@ -1,4 +1,4 @@
 # Project exclude paths
-/app/node_modules/
-/vue/node_modules/
-/www/
+/app
+/www
+/.idea

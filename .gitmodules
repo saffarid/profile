@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/saffarid/profile-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/saffarid/profile-frontend.git
+[submodule "constants"]
+	path = constants
+	url = https://github.com/saffarid/profile-constants.git
